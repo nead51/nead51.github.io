@@ -10,7 +10,7 @@ body {
     overflow-x: hidden;
 }
 a {
-    color: #e73030;
+    color: yellow;
     text-decoration: none !important;
     outline: none !important;
     -webkit-transition: all .3s ease-in-out;
@@ -19,10 +19,9 @@ a {
     -o-transition: all .3s ease-in-out;
     transition: all .3s ease-in-out;
 }
-}
+
 h1 {
-    font-size: 94px;
-    color: red;
+    font-size: 4px
 }
 h2 {
     font-size: 22px 
@@ -39,16 +38,6 @@ h5 {
 h6 {
     font-size: 13px 
 }
-*, *::after, *::before {
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
-h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-    color: #212121;
-    text-decoration: none!important;
-    opacity: 1 
-}
 button:focus {
     outline: none;
 }
@@ -59,7 +48,7 @@ ul, li, ol {
 }
 
 p {
-    color: Red;
+    color:seagreen;
     margin: 0px;
     font-weight: 300;
     font-size: 15px;
