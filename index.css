@@ -66,12 +66,14 @@ ul, li, ol {
     padding: 0px;
     list-style: none;
 }
+/*
 p {
     margin: 0px;
     font-weight: 300;
     font-size: 15px;
     line-height: 24px;
 }
+*/
 a {
     color: #222222;
     text-decoration: none;
