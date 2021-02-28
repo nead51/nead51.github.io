@@ -2,8 +2,6 @@ html {
     scroll-behavior: smooth;
 }
 body {
-    
-    
     background-image: url('https://nead51.github.io/Media/Color-11567F.png');
     font-size: 14px;
     font-family: 'poppins', sans-serif;
@@ -21,18 +19,10 @@ a {
     -o-transition: all .3s ease-in-out;
     transition: all .3s ease-in-out;
 }
-h1, h2, h3, h4, h5, h6 {
-    letter-spacing: 0;
-    font-weight: normal;
-    position: relative;
-    padding: 0 0 10px 0;
-    font-weight: normal;
-    line-height: normal;
-    color: white;
-    margin: 0 
 }
 h1 {
-    font-size: 94px 
+    font-size: 94px;
+    color: red;
 }
 h2 {
     font-size: 22px 
