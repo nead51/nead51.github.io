@@ -21,10 +21,9 @@ p {
     color: White;
 }
 h1 {
-    color: white;
-    font-size: 30px;
+    font-size: 60px;
     text-align: center;  
-    line-height: .5; 
+    line-height: .3; 
 }
 
 .column {
