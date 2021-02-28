@@ -14,7 +14,7 @@ a {
     color: white;
     text-decoration: none !important;
     outline: none !important;
-    font-size: 30px;
+    
 }
 p {
     color: White;
@@ -27,10 +27,11 @@ h1 {
 }
 
 .column {
-    color: white;
+    /* affects Columns */
+    
     float: left;
     width: 33.33%;
-    font-size: 45px;
+    font-size: 35px;
 }
   
   /* Clear floats after the columns */
