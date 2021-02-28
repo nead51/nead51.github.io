@@ -3,7 +3,7 @@ html {
 }
 body {
     color: red;
-   /* background-image: url("./Media/Color-11567f.png"); */ 
+    background-image: url("./Media/Color-11567f.png");
     font-size: 14px;
     font-family: 'poppins', sans-serif;
     line-height: 1.80857;
@@ -11,7 +11,7 @@ body {
     overflow-x: hidden;
 }
 a {
-    color: #1f1f1f;
+    color: #3043e7;
     text-decoration: none !important;
     outline: none !important;
     -webkit-transition: all .3s ease-in-out;
