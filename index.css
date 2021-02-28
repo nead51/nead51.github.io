@@ -11,7 +11,7 @@ body {
 }
 
 a {
-    color: White;
+    
     text-decoration: none !important;
     outline: none !important;
     font-size: 20pt;
@@ -28,7 +28,7 @@ h1 {
 .column {
     float: left;
     width: 33.33%;
-    color: white;
+   
     font-size: 6pt;
   }
   
