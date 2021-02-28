@@ -5,32 +5,15 @@ body {
     background-image: url('https://nead51.github.io/Media/Color-11567F.png');
     font-size: 14px;
     font-family: 'poppins', sans-serif;
-    line-height: 1;
+    line-height: .5;
     font-weight: normal;
     overflow-x: hidden;
 }
-a {
-    color: White;
-    text-decoration: none !important;
-    outline: none !important;
-}
-p {
-    color:White;
-}
-h1 {
-    color: white;
-    font-size: 96px;
-    text-align: center;    
-}
-h2 {
-    font-size: 22px 
-
-}
-button:focus {
-    outline: none;
-}
-ul, li, ol {
-    margin: 0px;
+.header {
     padding: 0px;
-    list-style: none;
+    text-align: center;
+    text-align: center;
+    background: red;
+    color: red;
+    font-size: 30px;    
 }
