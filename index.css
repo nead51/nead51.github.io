@@ -29,6 +29,7 @@ h1 {
 .column {
     float: left;
     width: 33.33%;
+    color: white;
     font-size: 99;
   }
   
