@@ -4,7 +4,7 @@ html {
 body {
     
     
-    background-image: url(https://nead51.github.io/Media/Color-11567F.png);
+    background-image: url('https://nead51.github.io/Media/Color-11567F.png');
     font-size: 14px;
     font-family: 'poppins', sans-serif;
     line-height: 1.80857;
@@ -28,7 +28,7 @@ h1, h2, h3, h4, h5, h6 {
     padding: 0 0 10px 0;
     font-weight: normal;
     line-height: normal;
-    color: #111111;
+    color: white;
     margin: 0 
 }
 h1 {
