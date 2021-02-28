@@ -10,12 +10,14 @@ body {
     overflow-x: hidden;
 }
 a {
-    color: black;
+    color: white;
     text-decoration: none !important;
     outline: none !important;
 
 }
-
+p {
+    color:white;
+}
 h1 {
     font-size: 96px;
     text-align: center;
