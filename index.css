@@ -9,6 +9,9 @@ body {
     font-weight: normal;
     overflow-x: hidden;
 }
+.header {
+    color: white;
+}
 a {
     color: White;
     text-decoration: none !important;
@@ -20,5 +23,5 @@ p {
 h1 {
     color: white;
     font-size: 96px;
-    text-align: center;    
-
+    text-align: center;   
+}
