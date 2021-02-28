@@ -5,7 +5,7 @@ body {
     background-image: url('https://nead51.github.io/Media/Color-11567F.png');
     font-size: 14px;
     font-family: 'poppins', sans-serif;
-    line-height: 1.80857;
+    line-height: 1;
     font-weight: normal;
     overflow-x: hidden;
 }
@@ -19,8 +19,7 @@ p {
 }
 h1 {
     font-size: 96px;
-    text-align: center;
-    color: rgb(133, 8, 8);
+    text-align: center;    
 }
 h2 {
     font-size: 22px 
