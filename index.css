@@ -9,13 +9,12 @@ body {
     font-weight: normal;
     overflow-x: hidden;
 }
-.header {
-    color: yellow;
-}
+
 a {
     color: White;
     text-decoration: none !important;
     outline: none !important;
+    font-size: 99px;
 }
 p {
     color: White;
