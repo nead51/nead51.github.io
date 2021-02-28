@@ -9,5 +9,16 @@ body {
     font-weight: normal;
     overflow-x: hidden;
 }
-
+a {
+    color: White;
+    text-decoration: none !important;
+    outline: none !important;
+}
+p {
+    color:White;
+}
+h1 {
+    color: white;
+    font-size: 96px;
+    text-align: center;    
 
