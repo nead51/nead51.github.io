@@ -6,7 +6,7 @@ html {
 }
 body {
     color: #666666;
-    background-image: ./Color-11567f.png;
+    background-image: url("/Media/Color-11567f.png");
     font-size: 14px;
     font-family: 'poppins', sans-serif;
     line-height: 1.80857;
