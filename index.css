@@ -14,7 +14,7 @@ a {
     color: white;
     text-decoration: none !important;
     outline: none !important;
-    font-size: 96px;
+    font-size: 30px;
 }
 p {
     color: White;
@@ -22,7 +22,8 @@ p {
 h1 {
     color: white;
     font-size: 30px;
-    text-align: center;   
+    text-align: center;  
+    line-height: .5; 
 }
 
 .column {
