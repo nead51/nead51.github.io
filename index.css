@@ -14,14 +14,14 @@ a {
     color: White;
     text-decoration: none !important;
     outline: none !important;
-    font-size: 45px;
+    font-size: 20pt;
 }
 p {
     color: White;
 }
 h1 {
     color: white;
-    font-size: 36px;
+    font-size: 30px;
     text-align: center;   
 }
 
@@ -29,7 +29,7 @@ h1 {
     float: left;
     width: 33.33%;
     color: white;
-    font-size: 36px;
+    font-size: 6pt;
   }
   
   /* Clear floats after the columns */
