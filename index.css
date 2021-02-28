@@ -11,7 +11,7 @@ body {
 }
 
 a {
-    color: white;
+    color: red;
     text-decoration: none !important;
     outline: none !important;
     font-size: 45px;
