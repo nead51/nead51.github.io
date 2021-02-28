@@ -10,13 +10,12 @@ body {
     overflow-x: hidden;
 }
 a {
-    color: white;
+    color: White;
     text-decoration: none !important;
     outline: none !important;
-
 }
 p {
-    color:white;
+    color:White;
 }
 h1 {
     font-size: 96px;
